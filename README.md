@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my GitHub</h1>
 
 <p align="center">
-My name is Gabriel Silva, i`m from Rio Grande do Sul, Brazil. I've been working as user support. 
+My name is Gabriel Silva, i`m from Rio Grande do Sul, Brazil. I've been working as user support.<br>
 
 In my free time I like shooting, spend time with my family and watch series with my girlfriend.
 </p>
